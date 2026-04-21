@@ -1,0 +1,4 @@
+-keepattributes SourceFile,LineNumberTable
+-keep public class * extends java.lang.Exception
+-keep class androidx.compose.** { *; }
+-keep class androidx.lifecycle.** { *; }
