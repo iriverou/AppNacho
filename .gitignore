@@ -1,0 +1,25 @@
+# Gradle
+.gradle/
+build/
+.gradle
+local.properties
+
+# Android Studio
+.idea/
+*.iml
+*.ipr
+*.iws
+*.apk
+.DS_Store
+
+# Build output
+bin/
+gen/
+
+# Byte-compiled
+__pycache__/
+*.py[cod]
+
+# IDEs
+.vscode/
+.history/
